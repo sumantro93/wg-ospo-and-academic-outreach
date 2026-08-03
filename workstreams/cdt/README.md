@@ -125,7 +125,7 @@ Develop deeper, modular curriculum for graduate students and faculty, aligned to
 | Metric | Target (first cohort) |
 |---|---|
 | Survey responses collected | 100+ across India and Singapore |
-| Institutions mapped in ecosystem directory | 15+ |
+| Institutions mapped in ecosystem directory | 10+ |
 | Blog posts published | 5 |
 | Starter kit forks/downloads | 50+ within 3 months of release |
 | Curriculum modules completed | 5 |
