@@ -17,7 +17,7 @@ CDT is the execution arm for two charter tracks:
 
 CDT also supports **Track C (Academic Fast Track)** by producing the readiness review checklists and mentorship materials that projects use during the intake pipeline.
 
-## Regional Focus: APAC Expansion
+## Regional Scope: Global Survey, Piloted with CURIOUS
 
 The initial CDT effort targets the **Asia-Pacific academic open source AI community**, with anchor partnerships at:
 
