@@ -129,7 +129,7 @@ Develop deeper, modular curriculum for graduate students and faculty, aligned to
 | Blog posts published | 5 |
 | Starter kit forks/downloads | 50+ within 3 months of release |
 | Curriculum modules completed | 5 |
-| Pilot cohort institutions | 2-3 (at least one IIT/IISc, one SGP) |
+| Pilot cohort institutions | 2-3 |
 | Student co-authors onboarded | 3-5 |
 
 ## Timeline
