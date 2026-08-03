@@ -21,7 +21,7 @@ CDT also supports **Track C (Academic Fast Track)** by producing the readiness r
 
 The initial CDT effort targets the **Asia-Pacific academic open source AI community**, with anchor partnerships at:
 
-### India
+### Pilot cohort:  CURIOUS network and WG-member connections
 - **IIT campuses** — Student clubs and faculty with active AI/ML and open source engagement (IIT Bombay, IIT Delhi, IIT Madras, IIT Kharagpur, and others)
 - **IISc Bangalore** — Research labs in Computational and Data Sciences (CDS), Computer Science and Automation (CSA), and related departments
 
